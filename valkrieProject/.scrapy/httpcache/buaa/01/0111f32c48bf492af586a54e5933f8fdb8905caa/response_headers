@@ -1,0 +1,12 @@
+Server: VWebServer
+Vary: User-Agent,Accept-Encoding
+Expires: Mon, 04 Jun 2018 15:07:32 GMT
+Content-Language: zh-CN
+Content-Encoding: gzip
+Last-Modified: Sun, 03 Jun 2018 07:58:49 GMT
+Etag: "35b0-56db82feca040-gzip"
+Cache-Control: private, max-age=600
+X-Frame-Options: SAMEORIGIN
+Accept-Ranges: bytes
+Date: Mon, 04 Jun 2018 14:57:32 GMT
+Content-Type: text/html
