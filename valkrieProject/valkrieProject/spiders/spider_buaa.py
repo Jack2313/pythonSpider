@@ -7,7 +7,9 @@ class buaaSpider(scrapy.Spider):
 
     def start_requests(self):
         urls = [
-            'http://shi.buaa.edu.cn/Leo_Tam/zh_CN/index.htm'
+            'http://shi.buaa.edu.cn/Leo_Tam/zh_CN/index.htm',
+            'http://shi.buaa.edu.cn/liuzhiqi/zh_CN/index.htm',
+            'http://shi.buaa.edu.cn/xingyufeng/zh_CN/index.htm'
         ]
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
@@ -26,8 +28,9 @@ class buaaSpider(scrapy.Spider):
         people['contact']=''
         people['field']=''
         people['name']=response.xpath('//div[@class="name"]/h1/text()').extract()
-        info=response.xpath('//div[@class="jbqk"]/p/text()').extract()
-        for i in info :
+        basicInfo=response.xpath('//div[@class="jbqk"]/p/text()').extract()
+
+        for i in basicInfo :
             #print (i)
             str=''.join(i)
 
@@ -48,8 +51,24 @@ class buaaSpider(scrapy.Spider):
                 #print(people['contact'])
                 continue
 
-        people['field']=response.xpath('//div[@class="con_bload"]/li/p/text()').extract()
-        print (people['field'])
-        #print(people['name'])
+        #moreInfo=response.xpath('//div[@class="con_bload"]/test()').extract()
+        #for i in moreInfo:
+        #    if re.match('<h2>研究方向</h2>',i):
+        #        people['field']=i.split("：")[-1]
+        #        #print(people['degree'])
+        #        continue
+        people['field']=response.xpath('//div[@class="con_bload" and h2="研究方向"]/li/p/text()').extract()
+        people['description'] = response.xpath('//div[@class="con_bload" and h2="个人简历"]/p/text()').extract()
+        #print (people['field'])
+        urlhead='http://shi.buaa.edu.cn/xingyufeng'
+        paperurl=response.xpath('//div[@id="rightside"]/div[@class="nav"]/div[@class="menu"]/div/ul/li[a=" 论文"]/a/@href').extract()
+        if not paperurl:
+            people['papers']=''
+        else :
+            paperurl=urlhead+''.join(paperurl)
+            #print ('------------'+paperurl+'------------')
+
+
         yield people
 
+    def parse_url(self, response):

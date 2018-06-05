@@ -20,3 +20,5 @@ class ValkrieprojectPipeline(object):
             self.file.write('insitution:' + ''.join(item['insitution']) + '\n')
             self.file.write('contact:' + ''.join(item['contact']) + '\n')
             self.file.write('field:' + ''.join(item['field']) + '\n')
+            self.file.write('description:' + ''.join(item['description']) + '\n')
+            self.file.write('\n')
