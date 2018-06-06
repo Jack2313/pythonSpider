@@ -29,5 +29,6 @@ class ValkrieprojectItem(scrapy.Item):
 
     photo=scrapy.Field()
 
+    number=scrapy.Field()
     papers=scrapy.Field()
     pass

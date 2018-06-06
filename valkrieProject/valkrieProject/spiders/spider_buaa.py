@@ -4,19 +4,15 @@ from valkrieProject.items import ValkrieprojectItem
 
 class buaaSpider(scrapy.Spider):
     name = "buaa"
-
+    number=0;
     def start_requests(self):
-        urls = [
-            'http://shi.buaa.edu.cn/Leo_Tam/zh_CN/index.htm',
-            'http://shi.buaa.edu.cn/liuzhiqi/zh_CN/index.htm',
-            'http://shi.buaa.edu.cn/xingyufeng/zh_CN/index.htm'
-        ]
-        for url in urls:
-
-            yield scrapy.Request(url=url, callback=self.parse)
+        with open('url.txt', 'r+') as f:
+            for url in f.readlines():
+                url=url.strip()
+                #self.number=self.number+1
+                yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
-
         name=''
         degree=''
         institution=''
@@ -28,7 +24,7 @@ class buaaSpider(scrapy.Spider):
 
         for i in basicInfo :
             #print (i)
-            str=''.join(i)
+            #str=''.join(i)
 
             if re.match('学位',i):
                 degree=i.split("：")[-1]
@@ -54,6 +50,7 @@ class buaaSpider(scrapy.Spider):
         paperurl=response.xpath('//div[@id="rightside"]/div[@class="nav"]/div[@class="menu"]/div/ul/li[a=" 论文"]/a/@href').extract()
         if not paperurl:
             people = ValkrieprojectItem()
+            people['number'] =str(self.number)
             people['papers']=''
             people['name']=name
             people['degree'] = degree
@@ -75,15 +72,12 @@ class buaaSpider(scrapy.Spider):
             })
             #yield people
 
-
-
-
     def parse_paper(self, response):
-        page = response.url.split("/")[-6]
-        filename = 'paper-%s.html' % page
-        with open(filename, 'wb') as f:
-            f.write(response.body)
-        self.log('Saved file %s' % filename)
+        #page = response.url.split("/")[-6]
+        #filename = 'paper-%s.html' % page
+        #with open(filename, 'wb') as f:
+        #    f.write(response.body)
+        #self.log('Saved file %s' % filename)
 
         people = ValkrieprojectItem()
 
@@ -98,4 +92,5 @@ class buaaSpider(scrapy.Spider):
         paper=response.xpath('//div[@class="listnews"]/ul/li/a/text()').extract()
         paperstr='\n'.join(paper)
         people['papers']=paperstr
+        people['number']=str(self.number)
         yield people
