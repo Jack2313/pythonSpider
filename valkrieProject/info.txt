@@ -1,350 +1,134 @@
-name:谭力豪 
-degree:博士学位
-insitution:交通科学与工程学院，土木与机场工程系
-contact:leo_tam@buaa.edu.cn
-field:[1]   高分子材料，复合材料，天然材料，耐久性能  
-description:
-
 name:刘知琪 
 degree:
-insitution:材料科学与工程学院
+institution:材料科学与工程学院
 contact:zhiqi@buaa.edu.cn
 field:
 description:
 刘知琪，男， 北京航空航天大学材料科学与工程学院教授，博士生导师。发表论文包括Nature、Phys. Rev. Lett.、Phys. Rev. B等；受邀在美国Apple Academic Press和CRC Press共同出版的材料类书籍《Functional Materials and Electronics》上撰写综述一章；受邀担任Nat. Commun.、Adv. Mater.、Adv. Funct. Mater.等学术期刊的审稿人。开设课程：材料学院大三第二学期《固体物理》代表性论文：[1] Z. Q. Liu*, H. Chen, J. M. Wang, J. H. Liu, K. Wang, Z. X. Feng, H. Yan, X. R. Wang, C. B. Jiang, J. M. D. Coey, and A. H. MacDonald, Electrical switching of the topological anomalous Hall effect in a non-collinear antiferromagnet above room temperature, Nature Electronics 1, 172 (2018).[2] Z. Q. Liu*, L. Li, Z. Gai, J. D. Clarkson, S. L. Hsu, A. T. Wong, L. S. Fan, M.-W. Lin, C. M. Rouleau, T. Z. Ward, H. N. Lee, A. S. Sefat, H. M. Christen*, and R. Ramesh*, Full electroresistance modulation in a mixed-phase metallic alloy, Physical Review Letters 116, 097203 (2016).[3] Z. Q. Liu, C. J. Li, W. M. Lü*, X. H. Huang, Z. Huang, S. W. Zeng, X. P. Qiu, L. S. Huang, A. Annadi, J. S. Chen, J. M. D. Coey, T. Venkatesan, and Ariando*, Origin of the two-dimensional electron gas at LaAlO/SrTiO interfaces: The role of oxygen vacancies and electronic reconstruction, Physical Review X 3, 021010 (2013).[4] Z. Q. Liu, D. P. Leusink, X. Wang, W. M. Lü, K. Gopinadhan, A. Annadi, Y. L. Zhao, X. H. Huang, S. W. Zeng, Z. Huang, A. Srivastava, S. Dhar, T. Venkatesan, and Ariando*, Metal-insulator transition in SrTiO thin films induced by frozen-out carriers, Physical Review Letters  107, 146802 (2011).[5] J. A. Mundy, C. M. Brooks, M. E. Holtz, J. A. Moyer, H. Das, A. F. Rébola, J. T. Heron, J. D. Clarkson, S. M. Disseler, Z. Q. Liu, A. Farhan, R. Held, R. Hovden, E. Padgett, Q. Y. Mao, H. Paik, R. Misra, L. F. Kourkoutis, A. Scholl, J. A. Borchers, W. D. Ratcliff, R. Ramesh, C. J. Fennie, P. Schiffer, D. A. Muller, and D. G. Schlom*, Atomically engineered ferroic layers yield a room-temperature magnetoelectric multiferroic, Nature 537, 523 (2016).                                                                    
+papers:
+
+
+name:谭力豪 
+degree:博士学位
+institution:交通科学与工程学院，土木与机场工程系
+contact:leo_tam@buaa.edu.cn
+field:[1]   高分子材料，复合材料，天然材料，耐久性能  
+description:
+papers:
+
+        [1] LIK-HO TAM and Denvid Lau* (2018), "Characterizing Mechanical Properties of Polymeric Material: A Bottom-Up Approach", In: Schmauder S., Chen CS., Chawla K., Chawla N., Chen W., Kagawa Y. (eds) Handbook of Mechanics of Materials. Springer, Singapore, Online ISBN: 978-981-10-6855-3. (Book Chapter) 
+
+
+        [2] LIK-HO TAM, Cheuk Lun Chow and Denvid Lau* (2018), “Moisture effect on interfacial integrity of epoxy-bonded system: a hierarchical approach”, Nanotechnology, 29(2):024001. 
+
+
+        [3] Wei Jian, LIK-HO TAM and Denvid Lau* (2018), “Atomistic study of interfacial creep behavior in epoxy-silica bilayer system”, Composites Part B: Engineering, 132: 229-236. 
+
+
+        [4] LIK-HO TAM and Chao Wu* (2017), “Molecular mechanics of the moisture effect on epoxy/carbon nanotube nanocomposites”, Nanomaterials, 7(10): 342. 
+
+
+        [5] LIK-HO TAM, Ao Zhou, Zechuan Yu, Qiwen Qiu and Denvid Lau* (2017), “Understanding the effect of temperature on the interfacial behavior of CFRP-wood composite via molecular dynamics simulations”, Composites Part B: Engineering, 109: 227-237. 
+
+
+        [6] Tong Zhang, ZhenYu Yang, TAM LIK HO, Ning Zhu and DanTong Zhu (2016), "Investigation on Mechanical Behavior of Single-Layer Graphene with Grain Boundary Loops", In: Aliofkhazraei M., Ali N.,  Milne W.I., Ozkan C.S., Mitura S., Gervasoni J.L. (eds) Graphene Science Handbook. CRC Press, US, ISBN: 978-1-4665-9135-6. (Book Chapter) 
+
+
+        [7] LIK-HO TAM and Denvid Lau* (2016), “Effect of structural voids on mesoscale modeling of epoxy-based material”, Coupled Systems Mechanics, 5(4): 355-369. (ESCI) 
+
+
+        [8] LIK-HO TAM and Denvid Lau* (2016), “Micromechanics of wood cell wall”, MRS Advances, 1(58): 3837-3845. (ESCI) 
+
+
+        [9] Meisam K. Habibi, LIK-HO TAM, Denvid Lau and Yang Lu* (2016), “Viscoelastic damping behavior of structural bamboo material and its microstructural origins”, Mechanics of Materials, 97: 184-198. 
+
+
+        [10] LIK-HO TAM and Denvid Lau* (2015), “Molecular simulation of adhesion property recovery in the cellulose/phenolic adhesive interface: The role of water molecules”, Materials Research Society Symposium Proceedings, 1793: 59-66. (EI) 
+
+
+        [11] Ao Zhou, LIK-HO TAM, Zechuan Yu and Denvid Lau* (2015), “Effect of moisture on the mechanical properties of CFRP-wood composite: An experimental and atomistic investigation”, Composites Part B: Engineering, 71: 63-73. 
+
+
+        [12] LIK-HO TAM and Denvid Lau* (2015), “Moisture effect on the mechanical and interfacial properties of epoxy-bonded material system: An atomistic and experimental investigation”, Polymer, 57: 132-142. 
+
+
+        [13] LIK-HO TAM and Denvid Lau* (2014), “A molecular dynamics investigation on the cross-linking and physical properties of epoxy-based materials”, RSC Advances, 4(62): 33074-33081. 
+
+
+        [14] LIK-HO TAM and Denvid Lau* (2014), “Molecular mechanics of organic composite materials: A case study of cellulose-adhesive system”, Materials Research Society Symposium Proceedings, 1662: mrsf13-1662-vv05-02. (EI) 
+
+
+        [15] Tong Zhang*, Ze Shuai Yuan and LI HAO TAN (2011), “Exact geometric relationships, symmetry breaking and structural stability for single-walled carbon nanotubes”, Nano-Micro Letters, 3(4): 228-235. 
+
 
 name:邢誉峰
 (教授)
    
 degree:博士学位
-insitution:北京航空航天大学
+institution:北京航空航天大学
 contact:xingyf@buaa.edu.cn
 field:[1]   结构动力学：板壳结构理论及其自由振动解析解法。  [2]   计算固体力学：高效高精度直接积分方法，高阶时间和空间有限单元。  [3]   复合材料结构力学：数学均匀化方法，多尺度特征单元方法。  
 description:
 固体力学学科博士生导师。1992年毕业于大连理工大学并获博士学位。1994年北航固体力学博士后流动站出站。曾经和现在主持和主要参加十三五项目、国家重大工程专项、国家自然科学重点和面上基金项目、航空基金项目、总装工程设计院和航天一院及三院合作项目等。出版三本教材和一部专著。
+papers:
 
-name:谭力豪 
-degree:博士学位
-insitution:交通科学与工程学院，土木与机场工程系
-contact:leo_tam@buaa.edu.cn
-field:[1]   高分子材料，复合材料，天然材料，耐久性能  
-description:
+        [1] Yufeng Xing ∗ , Qiaozhen Sun , Bo Liu , Zekun Wang. The overall assessment of closed-form solution methods for free vibrations of rectangular thin plates. International Journal of Mechanical Sciences 140 (2018) 455–470 
 
-name:刘知琪 
-degree:
-insitution:材料科学与工程学院
-contact:zhiqi@buaa.edu.cn
-field:
-description:
-刘知琪，男， 北京航空航天大学材料科学与工程学院教授，博士生导师。发表论文包括Nature、Phys. Rev. Lett.、Phys. Rev. B等；受邀在美国Apple Academic Press和CRC Press共同出版的材料类书籍《Functional Materials and Electronics》上撰写综述一章；受邀担任Nat. Commun.、Adv. Mater.、Adv. Funct. Mater.等学术期刊的审稿人。开设课程：材料学院大三第二学期《固体物理》代表性论文：[1] Z. Q. Liu*, H. Chen, J. M. Wang, J. H. Liu, K. Wang, Z. X. Feng, H. Yan, X. R. Wang, C. B. Jiang, J. M. D. Coey, and A. H. MacDonald, Electrical switching of the topological anomalous Hall effect in a non-collinear antiferromagnet above room temperature, Nature Electronics 1, 172 (2018).[2] Z. Q. Liu*, L. Li, Z. Gai, J. D. Clarkson, S. L. Hsu, A. T. Wong, L. S. Fan, M.-W. Lin, C. M. Rouleau, T. Z. Ward, H. N. Lee, A. S. Sefat, H. M. Christen*, and R. Ramesh*, Full electroresistance modulation in a mixed-phase metallic alloy, Physical Review Letters 116, 097203 (2016).[3] Z. Q. Liu, C. J. Li, W. M. Lü*, X. H. Huang, Z. Huang, S. W. Zeng, X. P. Qiu, L. S. Huang, A. Annadi, J. S. Chen, J. M. D. Coey, T. Venkatesan, and Ariando*, Origin of the two-dimensional electron gas at LaAlO/SrTiO interfaces: The role of oxygen vacancies and electronic reconstruction, Physical Review X 3, 021010 (2013).[4] Z. Q. Liu, D. P. Leusink, X. Wang, W. M. Lü, K. Gopinadhan, A. Annadi, Y. L. Zhao, X. H. Huang, S. W. Zeng, Z. Huang, A. Srivastava, S. Dhar, T. Venkatesan, and Ariando*, Metal-insulator transition in SrTiO thin films induced by frozen-out carriers, Physical Review Letters  107, 146802 (2011).[5] J. A. Mundy, C. M. Brooks, M. E. Holtz, J. A. Moyer, H. Das, A. F. Rébola, J. T. Heron, J. D. Clarkson, S. M. Disseler, Z. Q. Liu, A. Farhan, R. Held, R. Hovden, E. Padgett, Q. Y. Mao, H. Paik, R. Misra, L. F. Kourkoutis, A. Scholl, J. A. Borchers, W. D. Ratcliff, R. Ramesh, C. J. Fennie, P. Schiffer, D. A. Muller, and D. G. Schlom*, Atomically engineered ferroic layers yield a room-temperature magnetoelectric multiferroic, Nature 537, 523 (2016).                                                                    
 
-name:邢誉峰
-(教授)
-   
-degree:博士学位
-insitution:北京航空航天大学
-contact:xingyf@buaa.edu.cn
-field:[1]   结构动力学：板壳结构理论及其自由振动解析解法。  [2]   计算固体力学：高效高精度直接积分方法，高阶时间和空间有限单元。  [3]   复合材料结构力学：数学均匀化方法，多尺度特征单元方法。  
-description:
-固体力学学科博士生导师。1992年毕业于大连理工大学并获博士学位。1994年北航固体力学博士后流动站出站。曾经和现在主持和主要参加十三五项目、国家重大工程专项、国家自然科学重点和面上基金项目、航空基金项目、总装工程设计院和航天一院及三院合作项目等。出版三本教材和一部专著。
+        [2] H.M. Zhang, Y.F. Xing. Optimization of a class of composite method for structural dynamics. Computers and Structures 202 (2018) 60–73 
 
-name:谭力豪 
-degree:博士学位
-insitution:交通科学与工程学院，土木与机场工程系
-contact:leo_tam@buaa.edu.cn
-field:[1]   高分子材料，复合材料，天然材料，耐久性能  
-description:
 
-name:刘知琪 
-degree:
-insitution:材料科学与工程学院
-contact:zhiqi@buaa.edu.cn
-field:
-description:
-刘知琪，男， 北京航空航天大学材料科学与工程学院教授，博士生导师。发表论文包括Nature、Phys. Rev. Lett.、Phys. Rev. B等；受邀在美国Apple Academic Press和CRC Press共同出版的材料类书籍《Functional Materials and Electronics》上撰写综述一章；受邀担任Nat. Commun.、Adv. Mater.、Adv. Funct. Mater.等学术期刊的审稿人。开设课程：材料学院大三第二学期《固体物理》代表性论文：[1] Z. Q. Liu*, H. Chen, J. M. Wang, J. H. Liu, K. Wang, Z. X. Feng, H. Yan, X. R. Wang, C. B. Jiang, J. M. D. Coey, and A. H. MacDonald, Electrical switching of the topological anomalous Hall effect in a non-collinear antiferromagnet above room temperature, Nature Electronics 1, 172 (2018).[2] Z. Q. Liu*, L. Li, Z. Gai, J. D. Clarkson, S. L. Hsu, A. T. Wong, L. S. Fan, M.-W. Lin, C. M. Rouleau, T. Z. Ward, H. N. Lee, A. S. Sefat, H. M. Christen*, and R. Ramesh*, Full electroresistance modulation in a mixed-phase metallic alloy, Physical Review Letters 116, 097203 (2016).[3] Z. Q. Liu, C. J. Li, W. M. Lü*, X. H. Huang, Z. Huang, S. W. Zeng, X. P. Qiu, L. S. Huang, A. Annadi, J. S. Chen, J. M. D. Coey, T. Venkatesan, and Ariando*, Origin of the two-dimensional electron gas at LaAlO/SrTiO interfaces: The role of oxygen vacancies and electronic reconstruction, Physical Review X 3, 021010 (2013).[4] Z. Q. Liu, D. P. Leusink, X. Wang, W. M. Lü, K. Gopinadhan, A. Annadi, Y. L. Zhao, X. H. Huang, S. W. Zeng, Z. Huang, A. Srivastava, S. Dhar, T. Venkatesan, and Ariando*, Metal-insulator transition in SrTiO thin films induced by frozen-out carriers, Physical Review Letters  107, 146802 (2011).[5] J. A. Mundy, C. M. Brooks, M. E. Holtz, J. A. Moyer, H. Das, A. F. Rébola, J. T. Heron, J. D. Clarkson, S. M. Disseler, Z. Q. Liu, A. Farhan, R. Held, R. Hovden, E. Padgett, Q. Y. Mao, H. Paik, R. Misra, L. F. Kourkoutis, A. Scholl, J. A. Borchers, W. D. Ratcliff, R. Ramesh, C. J. Fennie, P. Schiffer, D. A. Muller, and D. G. Schlom*, Atomically engineered ferroic layers yield a room-temperature magnetoelectric multiferroic, Nature 537, 523 (2016).                                                                    
+        [3] Y. F. Xing, Z.K. Wang and T.F. Xu. Closed-form Analytical Solutions for Free Vibration of Rectangular Functionally Graded Thin Plates in Thermal Environment. International Journal of Applied Mechanics, Vol. 10, No. 3 (2018) 1850025 
 
-name:邢誉峰
-(教授)
-   
-degree:博士学位
-insitution:北京航空航天大学
-contact:xingyf@buaa.edu.cn
-field:[1]   结构动力学：板壳结构理论及其自由振动解析解法。  [2]   计算固体力学：高效高精度直接积分方法，高阶时间和空间有限单元。  [3]   复合材料结构力学：数学均匀化方法，多尺度特征单元方法。  
-description:
-固体力学学科博士生导师。1992年毕业于大连理工大学并获博士学位。1994年北航固体力学博士后流动站出站。曾经和现在主持和主要参加十三五项目、国家重大工程专项、国家自然科学重点和面上基金项目、航空基金项目、总装工程设计院和航天一院及三院合作项目等。出版三本教材和一部专著。
 
-name:谭力豪 
-degree:博士学位
-insitution:交通科学与工程学院，土木与机场工程系
-contact:leo_tam@buaa.edu.cn
-field:[1]   高分子材料，复合材料，天然材料，耐久性能  
-description:
+        [4] Qiaozhen Sun, Yufeng Xing. Exact eigensolutions for flutter of two-dimensional symmetric cross-ply composite laminates at high supersonic speeds. Composite Structures 183 (2018) 358–370 
 
-name:刘知琪 
-degree:
-insitution:材料科学与工程学院
-contact:zhiqi@buaa.edu.cn
-field:
-description:
-刘知琪，男， 北京航空航天大学材料科学与工程学院教授，博士生导师。发表论文包括Nature、Phys. Rev. Lett.、Phys. Rev. B等；受邀在美国Apple Academic Press和CRC Press共同出版的材料类书籍《Functional Materials and Electronics》上撰写综述一章；受邀担任Nat. Commun.、Adv. Mater.、Adv. Funct. Mater.等学术期刊的审稿人。开设课程：材料学院大三第二学期《固体物理》代表性论文：[1] Z. Q. Liu*, H. Chen, J. M. Wang, J. H. Liu, K. Wang, Z. X. Feng, H. Yan, X. R. Wang, C. B. Jiang, J. M. D. Coey, and A. H. MacDonald, Electrical switching of the topological anomalous Hall effect in a non-collinear antiferromagnet above room temperature, Nature Electronics 1, 172 (2018).[2] Z. Q. Liu*, L. Li, Z. Gai, J. D. Clarkson, S. L. Hsu, A. T. Wong, L. S. Fan, M.-W. Lin, C. M. Rouleau, T. Z. Ward, H. N. Lee, A. S. Sefat, H. M. Christen*, and R. Ramesh*, Full electroresistance modulation in a mixed-phase metallic alloy, Physical Review Letters 116, 097203 (2016).[3] Z. Q. Liu, C. J. Li, W. M. Lü*, X. H. Huang, Z. Huang, S. W. Zeng, X. P. Qiu, L. S. Huang, A. Annadi, J. S. Chen, J. M. D. Coey, T. Venkatesan, and Ariando*, Origin of the two-dimensional electron gas at LaAlO/SrTiO interfaces: The role of oxygen vacancies and electronic reconstruction, Physical Review X 3, 021010 (2013).[4] Z. Q. Liu, D. P. Leusink, X. Wang, W. M. Lü, K. Gopinadhan, A. Annadi, Y. L. Zhao, X. H. Huang, S. W. Zeng, Z. Huang, A. Srivastava, S. Dhar, T. Venkatesan, and Ariando*, Metal-insulator transition in SrTiO thin films induced by frozen-out carriers, Physical Review Letters  107, 146802 (2011).[5] J. A. Mundy, C. M. Brooks, M. E. Holtz, J. A. Moyer, H. Das, A. F. Rébola, J. T. Heron, J. D. Clarkson, S. M. Disseler, Z. Q. Liu, A. Farhan, R. Held, R. Hovden, E. Padgett, Q. Y. Mao, H. Paik, R. Misra, L. F. Kourkoutis, A. Scholl, J. A. Borchers, W. D. Ratcliff, R. Ramesh, C. J. Fennie, P. Schiffer, D. A. Muller, and D. G. Schlom*, Atomically engineered ferroic layers yield a room-temperature magnetoelectric multiferroic, Nature 537, 523 (2016).                                                                    
 
-name:邢誉峰
-(教授)
-   
-degree:博士学位
-insitution:北京航空航天大学
-contact:xingyf@buaa.edu.cn
-field:[1]   结构动力学：板壳结构理论及其自由振动解析解法。  [2]   计算固体力学：高效高精度直接积分方法，高阶时间和空间有限单元。  [3]   复合材料结构力学：数学均匀化方法，多尺度特征单元方法。  
-description:
-固体力学学科博士生导师。1992年毕业于大连理工大学并获博士学位。1994年北航固体力学博士后流动站出站。曾经和现在主持和主要参加十三五项目、国家重大工程专项、国家自然科学重点和面上基金项目、航空基金项目、总装工程设计院和航天一院及三院合作项目等。出版三本教材和一部专著。
+        [5] Y.F. Xing, Y.H. Gao, L. Chen, M. Li. Solution methods for two key problems in multiscale asymptotic expansion method. Composite Structures 160 (2017) 854–866 
 
-name:谭力豪 
-degree:博士学位
-insitution:交通科学与工程学院，土木与机场工程系
-contact:leo_tam@buaa.edu.cn
-field:[1]   高分子材料，复合材料，天然材料，耐久性能  
-description:
 
-name:刘知琪 
-degree:
-insitution:材料科学与工程学院
-contact:zhiqi@buaa.edu.cn
-field:
-description:
-刘知琪，男， 北京航空航天大学材料科学与工程学院教授，博士生导师。发表论文包括Nature、Phys. Rev. Lett.、Phys. Rev. B等；受邀在美国Apple Academic Press和CRC Press共同出版的材料类书籍《Functional Materials and Electronics》上撰写综述一章；受邀担任Nat. Commun.、Adv. Mater.、Adv. Funct. Mater.等学术期刊的审稿人。开设课程：材料学院大三第二学期《固体物理》代表性论文：[1] Z. Q. Liu*, H. Chen, J. M. Wang, J. H. Liu, K. Wang, Z. X. Feng, H. Yan, X. R. Wang, C. B. Jiang, J. M. D. Coey, and A. H. MacDonald, Electrical switching of the topological anomalous Hall effect in a non-collinear antiferromagnet above room temperature, Nature Electronics 1, 172 (2018).[2] Z. Q. Liu*, L. Li, Z. Gai, J. D. Clarkson, S. L. Hsu, A. T. Wong, L. S. Fan, M.-W. Lin, C. M. Rouleau, T. Z. Ward, H. N. Lee, A. S. Sefat, H. M. Christen*, and R. Ramesh*, Full electroresistance modulation in a mixed-phase metallic alloy, Physical Review Letters 116, 097203 (2016).[3] Z. Q. Liu, C. J. Li, W. M. Lü*, X. H. Huang, Z. Huang, S. W. Zeng, X. P. Qiu, L. S. Huang, A. Annadi, J. S. Chen, J. M. D. Coey, T. Venkatesan, and Ariando*, Origin of the two-dimensional electron gas at LaAlO/SrTiO interfaces: The role of oxygen vacancies and electronic reconstruction, Physical Review X 3, 021010 (2013).[4] Z. Q. Liu, D. P. Leusink, X. Wang, W. M. Lü, K. Gopinadhan, A. Annadi, Y. L. Zhao, X. H. Huang, S. W. Zeng, Z. Huang, A. Srivastava, S. Dhar, T. Venkatesan, and Ariando*, Metal-insulator transition in SrTiO thin films induced by frozen-out carriers, Physical Review Letters  107, 146802 (2011).[5] J. A. Mundy, C. M. Brooks, M. E. Holtz, J. A. Moyer, H. Das, A. F. Rébola, J. T. Heron, J. D. Clarkson, S. M. Disseler, Z. Q. Liu, A. Farhan, R. Held, R. Hovden, E. Padgett, Q. Y. Mao, H. Paik, R. Misra, L. F. Kourkoutis, A. Scholl, J. A. Borchers, W. D. Ratcliff, R. Ramesh, C. J. Fennie, P. Schiffer, D. A. Muller, and D. G. Schlom*, Atomically engineered ferroic layers yield a room-temperature magnetoelectric multiferroic, Nature 537, 523 (2016).                                                                    
+        [6] Wei Xiang and Yufeng Xing. A new first-order shear deformation theory for free vibrations of rectangular plate. International Journal of Applied Mechanics, Vol. 7, No. 1 (2015) 
 
-name:邢誉峰
-(教授)
-   
-degree:博士学位
-insitution:北京航空航天大学
-contact:xingyf@buaa.edu.cn
-field:[1]   结构动力学：板壳结构理论及其自由振动解析解法。  [2]   计算固体力学：高效高精度直接积分方法，高阶时间和空间有限单元。  [3]   复合材料结构力学：数学均匀化方法，多尺度特征单元方法。  
-description:
-固体力学学科博士生导师。1992年毕业于大连理工大学并获博士学位。1994年北航固体力学博士后流动站出站。曾经和现在主持和主要参加十三五项目、国家重大工程专项、国家自然科学重点和面上基金项目、航空基金项目、总装工程设计院和航天一院及三院合作项目等。出版三本教材和一部专著。
 
-name:谭力豪 
-degree:博士学位
-insitution:交通科学与工程学院，土木与机场工程系
-contact:leo_tam@buaa.edu.cn
-field:[1]   高分子材料，复合材料，天然材料，耐久性能  
-description:
+        [7] Y.F. Xing, L. Chen. Physical interpretation of multiscale asymptotic expansion method. Composite Structures 116 (2014) 694–702 
 
-name:刘知琪 
-degree:
-insitution:材料科学与工程学院
-contact:zhiqi@buaa.edu.cn
-field:
-description:
-刘知琪，男， 北京航空航天大学材料科学与工程学院教授，博士生导师。发表论文包括Nature、Phys. Rev. Lett.、Phys. Rev. B等；受邀在美国Apple Academic Press和CRC Press共同出版的材料类书籍《Functional Materials and Electronics》上撰写综述一章；受邀担任Nat. Commun.、Adv. Mater.、Adv. Funct. Mater.等学术期刊的审稿人。开设课程：材料学院大三第二学期《固体物理》代表性论文：[1] Z. Q. Liu*, H. Chen, J. M. Wang, J. H. Liu, K. Wang, Z. X. Feng, H. Yan, X. R. Wang, C. B. Jiang, J. M. D. Coey, and A. H. MacDonald, Electrical switching of the topological anomalous Hall effect in a non-collinear antiferromagnet above room temperature, Nature Electronics 1, 172 (2018).[2] Z. Q. Liu*, L. Li, Z. Gai, J. D. Clarkson, S. L. Hsu, A. T. Wong, L. S. Fan, M.-W. Lin, C. M. Rouleau, T. Z. Ward, H. N. Lee, A. S. Sefat, H. M. Christen*, and R. Ramesh*, Full electroresistance modulation in a mixed-phase metallic alloy, Physical Review Letters 116, 097203 (2016).[3] Z. Q. Liu, C. J. Li, W. M. Lü*, X. H. Huang, Z. Huang, S. W. Zeng, X. P. Qiu, L. S. Huang, A. Annadi, J. S. Chen, J. M. D. Coey, T. Venkatesan, and Ariando*, Origin of the two-dimensional electron gas at LaAlO/SrTiO interfaces: The role of oxygen vacancies and electronic reconstruction, Physical Review X 3, 021010 (2013).[4] Z. Q. Liu, D. P. Leusink, X. Wang, W. M. Lü, K. Gopinadhan, A. Annadi, Y. L. Zhao, X. H. Huang, S. W. Zeng, Z. Huang, A. Srivastava, S. Dhar, T. Venkatesan, and Ariando*, Metal-insulator transition in SrTiO thin films induced by frozen-out carriers, Physical Review Letters  107, 146802 (2011).[5] J. A. Mundy, C. M. Brooks, M. E. Holtz, J. A. Moyer, H. Das, A. F. Rébola, J. T. Heron, J. D. Clarkson, S. M. Disseler, Z. Q. Liu, A. Farhan, R. Held, R. Hovden, E. Padgett, Q. Y. Mao, H. Paik, R. Misra, L. F. Kourkoutis, A. Scholl, J. A. Borchers, W. D. Ratcliff, R. Ramesh, C. J. Fennie, P. Schiffer, D. A. Muller, and D. G. Schlom*, Atomically engineered ferroic layers yield a room-temperature magnetoelectric multiferroic, Nature 537, 523 (2016).                                                                    
 
-name:邢誉峰
-(教授)
-   
-degree:博士学位
-insitution:北京航空航天大学
-contact:xingyf@buaa.edu.cn
-field:[1]   结构动力学：板壳结构理论及其自由振动解析解法。  [2]   计算固体力学：高效高精度直接积分方法，高阶时间和空间有限单元。  [3]   复合材料结构力学：数学均匀化方法，多尺度特征单元方法。  
-description:
-固体力学学科博士生导师。1992年毕业于大连理工大学并获博士学位。1994年北航固体力学博士后流动站出站。曾经和现在主持和主要参加十三五项目、国家重大工程专项、国家自然科学重点和面上基金项目、航空基金项目、总装工程设计院和航天一院及三院合作项目等。出版三本教材和一部专著。
+        [8] Y.F. Xing, L. Chen. Accuracy of multiscale asymptotic expansion method. Composite Structures 112 (2014) 38–43 
 
-name:谭力豪 
-degree:博士学位
-insitution:交通科学与工程学院，土木与机场工程系
-contact:leo_tam@buaa.edu.cn
-field:[1]   高分子材料，复合材料，天然材料，耐久性能  
-description:
 
-name:刘知琪 
-degree:
-insitution:材料科学与工程学院
-contact:zhiqi@buaa.edu.cn
-field:
-description:
-刘知琪，男， 北京航空航天大学材料科学与工程学院教授，博士生导师。发表论文包括Nature、Phys. Rev. Lett.、Phys. Rev. B等；受邀在美国Apple Academic Press和CRC Press共同出版的材料类书籍《Functional Materials and Electronics》上撰写综述一章；受邀担任Nat. Commun.、Adv. Mater.、Adv. Funct. Mater.等学术期刊的审稿人。开设课程：材料学院大三第二学期《固体物理》代表性论文：[1] Z. Q. Liu*, H. Chen, J. M. Wang, J. H. Liu, K. Wang, Z. X. Feng, H. Yan, X. R. Wang, C. B. Jiang, J. M. D. Coey, and A. H. MacDonald, Electrical switching of the topological anomalous Hall effect in a non-collinear antiferromagnet above room temperature, Nature Electronics 1, 172 (2018).[2] Z. Q. Liu*, L. Li, Z. Gai, J. D. Clarkson, S. L. Hsu, A. T. Wong, L. S. Fan, M.-W. Lin, C. M. Rouleau, T. Z. Ward, H. N. Lee, A. S. Sefat, H. M. Christen*, and R. Ramesh*, Full electroresistance modulation in a mixed-phase metallic alloy, Physical Review Letters 116, 097203 (2016).[3] Z. Q. Liu, C. J. Li, W. M. Lü*, X. H. Huang, Z. Huang, S. W. Zeng, X. P. Qiu, L. S. Huang, A. Annadi, J. S. Chen, J. M. D. Coey, T. Venkatesan, and Ariando*, Origin of the two-dimensional electron gas at LaAlO/SrTiO interfaces: The role of oxygen vacancies and electronic reconstruction, Physical Review X 3, 021010 (2013).[4] Z. Q. Liu, D. P. Leusink, X. Wang, W. M. Lü, K. Gopinadhan, A. Annadi, Y. L. Zhao, X. H. Huang, S. W. Zeng, Z. Huang, A. Srivastava, S. Dhar, T. Venkatesan, and Ariando*, Metal-insulator transition in SrTiO thin films induced by frozen-out carriers, Physical Review Letters  107, 146802 (2011).[5] J. A. Mundy, C. M. Brooks, M. E. Holtz, J. A. Moyer, H. Das, A. F. Rébola, J. T. Heron, J. D. Clarkson, S. M. Disseler, Z. Q. Liu, A. Farhan, R. Held, R. Hovden, E. Padgett, Q. Y. Mao, H. Paik, R. Misra, L. F. Kourkoutis, A. Scholl, J. A. Borchers, W. D. Ratcliff, R. Ramesh, C. J. Fennie, P. Schiffer, D. A. Muller, and D. G. Schlom*, Atomically engineered ferroic layers yield a room-temperature magnetoelectric multiferroic, Nature 537, 523 (2016).                                                                    
+        [9] Y.F. Xing, C.Y. Du. An improved multiscale eigenelement method of periodical composite strucutres. Composite Structures 118 (2014) 200–207 
 
-name:邢誉峰
-(教授)
-   
-degree:博士学位
-insitution:北京航空航天大学
-contact:xingyf@buaa.edu.cn
-field:[1]   结构动力学：板壳结构理论及其自由振动解析解法。  [2]   计算固体力学：高效高精度直接积分方法，高阶时间和空间有限单元。  [3]   复合材料结构力学：数学均匀化方法，多尺度特征单元方法。  
-description:
-固体力学学科博士生导师。1992年毕业于大连理工大学并获博士学位。1994年北航固体力学博士后流动站出站。曾经和现在主持和主要参加十三五项目、国家重大工程专项、国家自然科学重点和面上基金项目、航空基金项目、总装工程设计院和航天一院及三院合作项目等。出版三本教材和一部专著。
 
-name:谭力豪 
-degree:博士学位
-insitution:交通科学与工程学院，土木与机场工程系
-contact:leo_tam@buaa.edu.cn
-field:[1]   高分子材料，复合材料，天然材料，耐久性能  
-description:
+        [10] Yufeng Xing, Bo Liu, Tengfei Xu. Exact solutions for free vibration of circular cylindrical shells with classical boundary conditions. International Journal of Mechanical Sciences 75 (2013) 178–188 
 
-name:刘知琪 
-degree:
-insitution:材料科学与工程学院
-contact:zhiqi@buaa.edu.cn
-field:
-description:
-刘知琪，男， 北京航空航天大学材料科学与工程学院教授，博士生导师。发表论文包括Nature、Phys. Rev. Lett.、Phys. Rev. B等；受邀在美国Apple Academic Press和CRC Press共同出版的材料类书籍《Functional Materials and Electronics》上撰写综述一章；受邀担任Nat. Commun.、Adv. Mater.、Adv. Funct. Mater.等学术期刊的审稿人。开设课程：材料学院大三第二学期《固体物理》代表性论文：[1] Z. Q. Liu*, H. Chen, J. M. Wang, J. H. Liu, K. Wang, Z. X. Feng, H. Yan, X. R. Wang, C. B. Jiang, J. M. D. Coey, and A. H. MacDonald, Electrical switching of the topological anomalous Hall effect in a non-collinear antiferromagnet above room temperature, Nature Electronics 1, 172 (2018).[2] Z. Q. Liu*, L. Li, Z. Gai, J. D. Clarkson, S. L. Hsu, A. T. Wong, L. S. Fan, M.-W. Lin, C. M. Rouleau, T. Z. Ward, H. N. Lee, A. S. Sefat, H. M. Christen*, and R. Ramesh*, Full electroresistance modulation in a mixed-phase metallic alloy, Physical Review Letters 116, 097203 (2016).[3] Z. Q. Liu, C. J. Li, W. M. Lü*, X. H. Huang, Z. Huang, S. W. Zeng, X. P. Qiu, L. S. Huang, A. Annadi, J. S. Chen, J. M. D. Coey, T. Venkatesan, and Ariando*, Origin of the two-dimensional electron gas at LaAlO/SrTiO interfaces: The role of oxygen vacancies and electronic reconstruction, Physical Review X 3, 021010 (2013).[4] Z. Q. Liu, D. P. Leusink, X. Wang, W. M. Lü, K. Gopinadhan, A. Annadi, Y. L. Zhao, X. H. Huang, S. W. Zeng, Z. Huang, A. Srivastava, S. Dhar, T. Venkatesan, and Ariando*, Metal-insulator transition in SrTiO thin films induced by frozen-out carriers, Physical Review Letters  107, 146802 (2011).[5] J. A. Mundy, C. M. Brooks, M. E. Holtz, J. A. Moyer, H. Das, A. F. Rébola, J. T. Heron, J. D. Clarkson, S. M. Disseler, Z. Q. Liu, A. Farhan, R. Held, R. Hovden, E. Padgett, Q. Y. Mao, H. Paik, R. Misra, L. F. Kourkoutis, A. Scholl, J. A. Borchers, W. D. Ratcliff, R. Ramesh, C. J. Fennie, P. Schiffer, D. A. Muller, and D. G. Schlom*, Atomically engineered ferroic layers yield a room-temperature magnetoelectric multiferroic, Nature 537, 523 (2016).                                                                    
 
-name:邢誉峰
-(教授)
-   
-degree:博士学位
-insitution:北京航空航天大学
-contact:xingyf@buaa.edu.cn
-field:[1]   结构动力学：板壳结构理论及其自由振动解析解法。  [2]   计算固体力学：高效高精度直接积分方法，高阶时间和空间有限单元。  [3]   复合材料结构力学：数学均匀化方法，多尺度特征单元方法。  
-description:
-固体力学学科博士生导师。1992年毕业于大连理工大学并获博士学位。1994年北航固体力学博士后流动站出站。曾经和现在主持和主要参加十三五项目、国家重大工程专项、国家自然科学重点和面上基金项目、航空基金项目、总装工程设计院和航天一院及三院合作项目等。出版三本教材和一部专著。
+        [11] Y.F. Xing, Y. Yang. An eigenelement method of periodical composite structures, Composite Structures, 93 (2011) 502–512（SCI） 
 
-name:谭力豪 
-degree:博士学位
-insitution:交通科学与工程学院，土木与机场工程系
-contact:leo_tam@buaa.edu.cn
-field:[1]   高分子材料，复合材料，天然材料，耐久性能  
-description:
 
-name:刘知琪 
-degree:
-insitution:材料科学与工程学院
-contact:zhiqi@buaa.edu.cn
-field:
-description:
-刘知琪，男， 北京航空航天大学材料科学与工程学院教授，博士生导师。发表论文包括Nature、Phys. Rev. Lett.、Phys. Rev. B等；受邀在美国Apple Academic Press和CRC Press共同出版的材料类书籍《Functional Materials and Electronics》上撰写综述一章；受邀担任Nat. Commun.、Adv. Mater.、Adv. Funct. Mater.等学术期刊的审稿人。开设课程：材料学院大三第二学期《固体物理》代表性论文：[1] Z. Q. Liu*, H. Chen, J. M. Wang, J. H. Liu, K. Wang, Z. X. Feng, H. Yan, X. R. Wang, C. B. Jiang, J. M. D. Coey, and A. H. MacDonald, Electrical switching of the topological anomalous Hall effect in a non-collinear antiferromagnet above room temperature, Nature Electronics 1, 172 (2018).[2] Z. Q. Liu*, L. Li, Z. Gai, J. D. Clarkson, S. L. Hsu, A. T. Wong, L. S. Fan, M.-W. Lin, C. M. Rouleau, T. Z. Ward, H. N. Lee, A. S. Sefat, H. M. Christen*, and R. Ramesh*, Full electroresistance modulation in a mixed-phase metallic alloy, Physical Review Letters 116, 097203 (2016).[3] Z. Q. Liu, C. J. Li, W. M. Lü*, X. H. Huang, Z. Huang, S. W. Zeng, X. P. Qiu, L. S. Huang, A. Annadi, J. S. Chen, J. M. D. Coey, T. Venkatesan, and Ariando*, Origin of the two-dimensional electron gas at LaAlO/SrTiO interfaces: The role of oxygen vacancies and electronic reconstruction, Physical Review X 3, 021010 (2013).[4] Z. Q. Liu, D. P. Leusink, X. Wang, W. M. Lü, K. Gopinadhan, A. Annadi, Y. L. Zhao, X. H. Huang, S. W. Zeng, Z. Huang, A. Srivastava, S. Dhar, T. Venkatesan, and Ariando*, Metal-insulator transition in SrTiO thin films induced by frozen-out carriers, Physical Review Letters  107, 146802 (2011).[5] J. A. Mundy, C. M. Brooks, M. E. Holtz, J. A. Moyer, H. Das, A. F. Rébola, J. T. Heron, J. D. Clarkson, S. M. Disseler, Z. Q. Liu, A. Farhan, R. Held, R. Hovden, E. Padgett, Q. Y. Mao, H. Paik, R. Misra, L. F. Kourkoutis, A. Scholl, J. A. Borchers, W. D. Ratcliff, R. Ramesh, C. J. Fennie, P. Schiffer, D. A. Muller, and D. G. Schlom*, Atomically engineered ferroic layers yield a room-temperature magnetoelectric multiferroic, Nature 537, 523 (2016).                                                                    
+        [12] Y.F. Xing, Y. Yang, X.M. Wang. A Multiscale Eigenelement Method and Its Application to Periodical Composite Structures, Composite Structures, 92 (2010) 2265–2275 
 
-name:邢誉峰
-(教授)
-   
-degree:博士学位
-insitution:北京航空航天大学
-contact:xingyf@buaa.edu.cn
-field:[1]   结构动力学：板壳结构理论及其自由振动解析解法。  [2]   计算固体力学：高效高精度直接积分方法，高阶时间和空间有限单元。  [3]   复合材料结构力学：数学均匀化方法，多尺度特征单元方法。  
-description:
-固体力学学科博士生导师。1992年毕业于大连理工大学并获博士学位。1994年北航固体力学博士后流动站出站。曾经和现在主持和主要参加十三五项目、国家重大工程专项、国家自然科学重点和面上基金项目、航空基金项目、总装工程设计院和航天一院及三院合作项目等。出版三本教材和一部专著。
 
-name:谭力豪 
-degree:博士学位
-insitution:交通科学与工程学院，土木与机场工程系
-contact:leo_tam@buaa.edu.cn
-field:[1]   高分子材料，复合材料，天然材料，耐久性能  
-description:
+        [13] YUFENG XING, BO LIU and GUANG LIU, A DIFFERENTIAL QUADRATURE FINITE ELEMENT METHOD, International Journal of Applied Mechanics, Vol. 2, No. 1 (2010) 207–227 
 
-name:刘知琪 
-degree:
-insitution:材料科学与工程学院
-contact:zhiqi@buaa.edu.cn
-field:
-description:
-刘知琪，男， 北京航空航天大学材料科学与工程学院教授，博士生导师。发表论文包括Nature、Phys. Rev. Lett.、Phys. Rev. B等；受邀在美国Apple Academic Press和CRC Press共同出版的材料类书籍《Functional Materials and Electronics》上撰写综述一章；受邀担任Nat. Commun.、Adv. Mater.、Adv. Funct. Mater.等学术期刊的审稿人。开设课程：材料学院大三第二学期《固体物理》代表性论文：[1] Z. Q. Liu*, H. Chen, J. M. Wang, J. H. Liu, K. Wang, Z. X. Feng, H. Yan, X. R. Wang, C. B. Jiang, J. M. D. Coey, and A. H. MacDonald, Electrical switching of the topological anomalous Hall effect in a non-collinear antiferromagnet above room temperature, Nature Electronics 1, 172 (2018).[2] Z. Q. Liu*, L. Li, Z. Gai, J. D. Clarkson, S. L. Hsu, A. T. Wong, L. S. Fan, M.-W. Lin, C. M. Rouleau, T. Z. Ward, H. N. Lee, A. S. Sefat, H. M. Christen*, and R. Ramesh*, Full electroresistance modulation in a mixed-phase metallic alloy, Physical Review Letters 116, 097203 (2016).[3] Z. Q. Liu, C. J. Li, W. M. Lü*, X. H. Huang, Z. Huang, S. W. Zeng, X. P. Qiu, L. S. Huang, A. Annadi, J. S. Chen, J. M. D. Coey, T. Venkatesan, and Ariando*, Origin of the two-dimensional electron gas at LaAlO/SrTiO interfaces: The role of oxygen vacancies and electronic reconstruction, Physical Review X 3, 021010 (2013).[4] Z. Q. Liu, D. P. Leusink, X. Wang, W. M. Lü, K. Gopinadhan, A. Annadi, Y. L. Zhao, X. H. Huang, S. W. Zeng, Z. Huang, A. Srivastava, S. Dhar, T. Venkatesan, and Ariando*, Metal-insulator transition in SrTiO thin films induced by frozen-out carriers, Physical Review Letters  107, 146802 (2011).[5] J. A. Mundy, C. M. Brooks, M. E. Holtz, J. A. Moyer, H. Das, A. F. Rébola, J. T. Heron, J. D. Clarkson, S. M. Disseler, Z. Q. Liu, A. Farhan, R. Held, R. Hovden, E. Padgett, Q. Y. Mao, H. Paik, R. Misra, L. F. Kourkoutis, A. Scholl, J. A. Borchers, W. D. Ratcliff, R. Ramesh, C. J. Fennie, P. Schiffer, D. A. Muller, and D. G. Schlom*, Atomically engineered ferroic layers yield a room-temperature magnetoelectric multiferroic, Nature 537, 523 (2016).                                                                    
 
-name:邢誉峰
-(教授)
-   
-degree:博士学位
-insitution:北京航空航天大学
-contact:xingyf@buaa.edu.cn
-field:[1]   结构动力学：板壳结构理论及其自由振动解析解法。  [2]   计算固体力学：高效高精度直接积分方法，高阶时间和空间有限单元。  [3]   复合材料结构力学：数学均匀化方法，多尺度特征单元方法。  
-description:
-固体力学学科博士生导师。1992年毕业于大连理工大学并获博士学位。1994年北航固体力学博士后流动站出站。曾经和现在主持和主要参加十三五项目、国家重大工程专项、国家自然科学重点和面上基金项目、航空基金项目、总装工程设计院和航天一院及三院合作项目等。出版三本教材和一部专著。
+        [14] Yufeng, Xing and Bo, Liu. High-Accuracy Differential Quadrature Finite Element Method and Its Application to Free Vibrations of Thin Plate with Curvilinear Domain. International Journal for Numerical Methods in Engineering, Int. J. Numer. Meth. Engng, 2009; 80:1718–1742 
 
-name:谭力豪 
-degree:博士学位
-insitution:交通科学与工程学院，土木与机场工程系
-contact:leo_tam@buaa.edu.cn
-field:[1]   高分子材料，复合材料，天然材料，耐久性能  
-description:
 
-name:刘知琪 
-degree:
-insitution:材料科学与工程学院
-contact:zhiqi@buaa.edu.cn
-field:
-description:
-刘知琪，男， 北京航空航天大学材料科学与工程学院教授，博士生导师。发表论文包括Nature、Phys. Rev. Lett.、Phys. Rev. B等；受邀在美国Apple Academic Press和CRC Press共同出版的材料类书籍《Functional Materials and Electronics》上撰写综述一章；受邀担任Nat. Commun.、Adv. Mater.、Adv. Funct. Mater.等学术期刊的审稿人。开设课程：材料学院大三第二学期《固体物理》代表性论文：[1] Z. Q. Liu*, H. Chen, J. M. Wang, J. H. Liu, K. Wang, Z. X. Feng, H. Yan, X. R. Wang, C. B. Jiang, J. M. D. Coey, and A. H. MacDonald, Electrical switching of the topological anomalous Hall effect in a non-collinear antiferromagnet above room temperature, Nature Electronics 1, 172 (2018).[2] Z. Q. Liu*, L. Li, Z. Gai, J. D. Clarkson, S. L. Hsu, A. T. Wong, L. S. Fan, M.-W. Lin, C. M. Rouleau, T. Z. Ward, H. N. Lee, A. S. Sefat, H. M. Christen*, and R. Ramesh*, Full electroresistance modulation in a mixed-phase metallic alloy, Physical Review Letters 116, 097203 (2016).[3] Z. Q. Liu, C. J. Li, W. M. Lü*, X. H. Huang, Z. Huang, S. W. Zeng, X. P. Qiu, L. S. Huang, A. Annadi, J. S. Chen, J. M. D. Coey, T. Venkatesan, and Ariando*, Origin of the two-dimensional electron gas at LaAlO/SrTiO interfaces: The role of oxygen vacancies and electronic reconstruction, Physical Review X 3, 021010 (2013).[4] Z. Q. Liu, D. P. Leusink, X. Wang, W. M. Lü, K. Gopinadhan, A. Annadi, Y. L. Zhao, X. H. Huang, S. W. Zeng, Z. Huang, A. Srivastava, S. Dhar, T. Venkatesan, and Ariando*, Metal-insulator transition in SrTiO thin films induced by frozen-out carriers, Physical Review Letters  107, 146802 (2011).[5] J. A. Mundy, C. M. Brooks, M. E. Holtz, J. A. Moyer, H. Das, A. F. Rébola, J. T. Heron, J. D. Clarkson, S. M. Disseler, Z. Q. Liu, A. Farhan, R. Held, R. Hovden, E. Padgett, Q. Y. Mao, H. Paik, R. Misra, L. F. Kourkoutis, A. Scholl, J. A. Borchers, W. D. Ratcliff, R. Ramesh, C. J. Fennie, P. Schiffer, D. A. Muller, and D. G. Schlom*, Atomically engineered ferroic layers yield a room-temperature magnetoelectric multiferroic, Nature 537, 523 (2016).                                                                    
+        [15] Yufeng Xing, Xingming Wang. An eigenelement method and two homogenization conditions. Acta Mechanica Sinica 2009; 25(3):345-351 
 
-name:邢誉峰
-(教授)
-   
-degree:博士学位
-insitution:北京航空航天大学
-contact:xingyf@buaa.edu.cn
-field:[1]   结构动力学：板壳结构理论及其自由振动解析解法。  [2]   计算固体力学：高效高精度直接积分方法，高阶时间和空间有限单元。  [3]   复合材料结构力学：数学均匀化方法，多尺度特征单元方法。  
-description:
-固体力学学科博士生导师。1992年毕业于大连理工大学并获博士学位。1994年北航固体力学博士后流动站出站。曾经和现在主持和主要参加十三五项目、国家重大工程专项、国家自然科学重点和面上基金项目、航空基金项目、总装工程设计院和航天一院及三院合作项目等。出版三本教材和一部专著。
 
-name:谭力豪 
-degree:博士学位
-insitution:交通科学与工程学院，土木与机场工程系
-contact:leo_tam@buaa.edu.cn
-field:[1]   高分子材料，复合材料，天然材料，耐久性能  
-description:
+        [16] Y.F. Xing，B. Liu. Exact solutions for the free in-plane vibrations of rectangular plates, International Journal of Mechanical Sciences 51 (2009) 246–255 
 
-name:刘知琪 
-degree:
-insitution:材料科学与工程学院
-contact:zhiqi@buaa.edu.cn
-field:
-description:
-刘知琪，男， 北京航空航天大学材料科学与工程学院教授，博士生导师。发表论文包括Nature、Phys. Rev. Lett.、Phys. Rev. B等；受邀在美国Apple Academic Press和CRC Press共同出版的材料类书籍《Functional Materials and Electronics》上撰写综述一章；受邀担任Nat. Commun.、Adv. Mater.、Adv. Funct. Mater.等学术期刊的审稿人。开设课程：材料学院大三第二学期《固体物理》代表性论文：[1] Z. Q. Liu*, H. Chen, J. M. Wang, J. H. Liu, K. Wang, Z. X. Feng, H. Yan, X. R. Wang, C. B. Jiang, J. M. D. Coey, and A. H. MacDonald, Electrical switching of the topological anomalous Hall effect in a non-collinear antiferromagnet above room temperature, Nature Electronics 1, 172 (2018).[2] Z. Q. Liu*, L. Li, Z. Gai, J. D. Clarkson, S. L. Hsu, A. T. Wong, L. S. Fan, M.-W. Lin, C. M. Rouleau, T. Z. Ward, H. N. Lee, A. S. Sefat, H. M. Christen*, and R. Ramesh*, Full electroresistance modulation in a mixed-phase metallic alloy, Physical Review Letters 116, 097203 (2016).[3] Z. Q. Liu, C. J. Li, W. M. Lü*, X. H. Huang, Z. Huang, S. W. Zeng, X. P. Qiu, L. S. Huang, A. Annadi, J. S. Chen, J. M. D. Coey, T. Venkatesan, and Ariando*, Origin of the two-dimensional electron gas at LaAlO/SrTiO interfaces: The role of oxygen vacancies and electronic reconstruction, Physical Review X 3, 021010 (2013).[4] Z. Q. Liu, D. P. Leusink, X. Wang, W. M. Lü, K. Gopinadhan, A. Annadi, Y. L. Zhao, X. H. Huang, S. W. Zeng, Z. Huang, A. Srivastava, S. Dhar, T. Venkatesan, and Ariando*, Metal-insulator transition in SrTiO thin films induced by frozen-out carriers, Physical Review Letters  107, 146802 (2011).[5] J. A. Mundy, C. M. Brooks, M. E. Holtz, J. A. Moyer, H. Das, A. F. Rébola, J. T. Heron, J. D. Clarkson, S. M. Disseler, Z. Q. Liu, A. Farhan, R. Held, R. Hovden, E. Padgett, Q. Y. Mao, H. Paik, R. Misra, L. F. Kourkoutis, A. Scholl, J. A. Borchers, W. D. Ratcliff, R. Ramesh, C. J. Fennie, P. Schiffer, D. A. Muller, and D. G. Schlom*, Atomically engineered ferroic layers yield a room-temperature magnetoelectric multiferroic, Nature 537, 523 (2016).                                                                    
 
-name:邢誉峰
-(教授)
-   
-degree:博士学位
-insitution:北京航空航天大学
-contact:xingyf@buaa.edu.cn
-field:[1]   结构动力学：板壳结构理论及其自由振动解析解法。  [2]   计算固体力学：高效高精度直接积分方法，高阶时间和空间有限单元。  [3]   复合材料结构力学：数学均匀化方法，多尺度特征单元方法。  
-description:
-固体力学学科博士生导师。1992年毕业于大连理工大学并获博士学位。1994年北航固体力学博士后流动站出站。曾经和现在主持和主要参加十三五项目、国家重大工程专项、国家自然科学重点和面上基金项目、航空基金项目、总装工程设计院和航天一院及三院合作项目等。出版三本教材和一部专著。
+        [17] Y.F. Xing，B. Liu. New exact solutions for free vibrations of thin orthotropic rectangular plates，Composite Structures 89 (2009) 567–574 
 
-name:谭力豪 
-degree:博士学位
-insitution:交通科学与工程学院，土木与机场工程系
-contact:leo_tam@buaa.edu.cn
-field:[1]   高分子材料，复合材料，天然材料，耐久性能  
-description:
 
-name:刘知琪 
-degree:
-insitution:材料科学与工程学院
-contact:zhiqi@buaa.edu.cn
-field:
-description:
-刘知琪，男， 北京航空航天大学材料科学与工程学院教授，博士生导师。发表论文包括Nature、Phys. Rev. Lett.、Phys. Rev. B等；受邀在美国Apple Academic Press和CRC Press共同出版的材料类书籍《Functional Materials and Electronics》上撰写综述一章；受邀担任Nat. Commun.、Adv. Mater.、Adv. Funct. Mater.等学术期刊的审稿人。开设课程：材料学院大三第二学期《固体物理》代表性论文：[1] Z. Q. Liu*, H. Chen, J. M. Wang, J. H. Liu, K. Wang, Z. X. Feng, H. Yan, X. R. Wang, C. B. Jiang, J. M. D. Coey, and A. H. MacDonald, Electrical switching of the topological anomalous Hall effect in a non-collinear antiferromagnet above room temperature, Nature Electronics 1, 172 (2018).[2] Z. Q. Liu*, L. Li, Z. Gai, J. D. Clarkson, S. L. Hsu, A. T. Wong, L. S. Fan, M.-W. Lin, C. M. Rouleau, T. Z. Ward, H. N. Lee, A. S. Sefat, H. M. Christen*, and R. Ramesh*, Full electroresistance modulation in a mixed-phase metallic alloy, Physical Review Letters 116, 097203 (2016).[3] Z. Q. Liu, C. J. Li, W. M. Lü*, X. H. Huang, Z. Huang, S. W. Zeng, X. P. Qiu, L. S. Huang, A. Annadi, J. S. Chen, J. M. D. Coey, T. Venkatesan, and Ariando*, Origin of the two-dimensional electron gas at LaAlO/SrTiO interfaces: The role of oxygen vacancies and electronic reconstruction, Physical Review X 3, 021010 (2013).[4] Z. Q. Liu, D. P. Leusink, X. Wang, W. M. Lü, K. Gopinadhan, A. Annadi, Y. L. Zhao, X. H. Huang, S. W. Zeng, Z. Huang, A. Srivastava, S. Dhar, T. Venkatesan, and Ariando*, Metal-insulator transition in SrTiO thin films induced by frozen-out carriers, Physical Review Letters  107, 146802 (2011).[5] J. A. Mundy, C. M. Brooks, M. E. Holtz, J. A. Moyer, H. Das, A. F. Rébola, J. T. Heron, J. D. Clarkson, S. M. Disseler, Z. Q. Liu, A. Farhan, R. Held, R. Hovden, E. Padgett, Q. Y. Mao, H. Paik, R. Misra, L. F. Kourkoutis, A. Scholl, J. A. Borchers, W. D. Ratcliff, R. Ramesh, C. J. Fennie, P. Schiffer, D. A. Muller, and D. G. Schlom*, Atomically engineered ferroic layers yield a room-temperature magnetoelectric multiferroic, Nature 537, 523 (2016).                                                                    
+        [18] Yufeng Xing，Bo Liu. Characteristic equations and closed form solutions for free vibrations of rectangular Mindlin plates, Acta Mechanica Solida Sinica, 2009, 22( 2):125-136 
 
-name:邢誉峰
-(教授)
-   
-degree:博士学位
-insitution:北京航空航天大学
-contact:xingyf@buaa.edu.cn
-field:[1]   结构动力学：板壳结构理论及其自由振动解析解法。  [2]   计算固体力学：高效高精度直接积分方法，高阶时间和空间有限单元。  [3]   复合材料结构力学：数学均匀化方法，多尺度特征单元方法。  
-description:
-固体力学学科博士生导师。1992年毕业于大连理工大学并获博士学位。1994年北航固体力学博士后流动站出站。曾经和现在主持和主要参加十三五项目、国家重大工程专项、国家自然科学重点和面上基金项目、航空基金项目、总装工程设计院和航天一院及三院合作项目等。出版三本教材和一部专著。
 
-name:谭力豪 
-degree:博士学位
-insitution:交通科学与工程学院，土木与机场工程系
-contact:leo_tam@buaa.edu.cn
-field:[1]   高分子材料，复合材料，天然材料，耐久性能  
-description:
+        [19] Yufeng Xing，Bo Liu. Closed-Form Solutions for Free Vibrations of Rectangular Mindlin Plates, Acta Mech Sin,2009, 25(5):689-698 
 
-name:刘知琪 
-degree:
-insitution:材料科学与工程学院
-contact:zhiqi@buaa.edu.cn
-field:
-description:
-刘知琪，男， 北京航空航天大学材料科学与工程学院教授，博士生导师。发表论文包括Nature、Phys. Rev. Lett.、Phys. Rev. B等；受邀在美国Apple Academic Press和CRC Press共同出版的材料类书籍《Functional Materials and Electronics》上撰写综述一章；受邀担任Nat. Commun.、Adv. Mater.、Adv. Funct. Mater.等学术期刊的审稿人。开设课程：材料学院大三第二学期《固体物理》代表性论文：[1] Z. Q. Liu*, H. Chen, J. M. Wang, J. H. Liu, K. Wang, Z. X. Feng, H. Yan, X. R. Wang, C. B. Jiang, J. M. D. Coey, and A. H. MacDonald, Electrical switching of the topological anomalous Hall effect in a non-collinear antiferromagnet above room temperature, Nature Electronics 1, 172 (2018).[2] Z. Q. Liu*, L. Li, Z. Gai, J. D. Clarkson, S. L. Hsu, A. T. Wong, L. S. Fan, M.-W. Lin, C. M. Rouleau, T. Z. Ward, H. N. Lee, A. S. Sefat, H. M. Christen*, and R. Ramesh*, Full electroresistance modulation in a mixed-phase metallic alloy, Physical Review Letters 116, 097203 (2016).[3] Z. Q. Liu, C. J. Li, W. M. Lü*, X. H. Huang, Z. Huang, S. W. Zeng, X. P. Qiu, L. S. Huang, A. Annadi, J. S. Chen, J. M. D. Coey, T. Venkatesan, and Ariando*, Origin of the two-dimensional electron gas at LaAlO/SrTiO interfaces: The role of oxygen vacancies and electronic reconstruction, Physical Review X 3, 021010 (2013).[4] Z. Q. Liu, D. P. Leusink, X. Wang, W. M. Lü, K. Gopinadhan, A. Annadi, Y. L. Zhao, X. H. Huang, S. W. Zeng, Z. Huang, A. Srivastava, S. Dhar, T. Venkatesan, and Ariando*, Metal-insulator transition in SrTiO thin films induced by frozen-out carriers, Physical Review Letters  107, 146802 (2011).[5] J. A. Mundy, C. M. Brooks, M. E. Holtz, J. A. Moyer, H. Das, A. F. Rébola, J. T. Heron, J. D. Clarkson, S. M. Disseler, Z. Q. Liu, A. Farhan, R. Held, R. Hovden, E. Padgett, Q. Y. Mao, H. Paik, R. Misra, L. F. Kourkoutis, A. Scholl, J. A. Borchers, W. D. Ratcliff, R. Ramesh, C. J. Fennie, P. Schiffer, D. A. Muller, and D. G. Schlom*, Atomically engineered ferroic layers yield a room-temperature magnetoelectric multiferroic, Nature 537, 523 (2016).                                                                    
 
-name:邢誉峰
-(教授)
-   
-degree:博士学位
-insitution:北京航空航天大学
-contact:xingyf@buaa.edu.cn
-field:[1]   结构动力学：板壳结构理论及其自由振动解析解法。  [2]   计算固体力学：高效高精度直接积分方法，高阶时间和空间有限单元。  [3]   复合材料结构力学：数学均匀化方法，多尺度特征单元方法。  
-description:
-固体力学学科博士生导师。1992年毕业于大连理工大学并获博士学位。1994年北航固体力学博士后流动站出站。曾经和现在主持和主要参加十三五项目、国家重大工程专项、国家自然科学重点和面上基金项目、航空基金项目、总装工程设计院和航天一院及三院合作项目等。出版三本教材和一部专著。
+        [20] Yufeng Xing, Jinmei Tian, DeChao Zhu and WenJian Xie. The Homogenization Method Based on Eigenvector Expansions for Woven Fabric Composites, International Journal for Multiscale Computational Engineering, 2006,4(1):197-206 
+
 

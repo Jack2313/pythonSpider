@@ -20,7 +20,7 @@ class ValkrieprojectItem(scrapy.Item):
     field =scrapy.Field()
     #field that he/she research
 
-    insitution =scrapy.Field()
+    institution =scrapy.Field()
     #where he/she work
 
     contact=scrapy.Field()

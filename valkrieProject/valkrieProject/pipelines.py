@@ -17,8 +17,9 @@ class ValkrieprojectPipeline(object):
         else :
             self.file.write('name:'+''.join(item['name']) + '\n')
             self.file.write('degree:' + ''.join(item['degree']) + '\n')
-            self.file.write('insitution:' + ''.join(item['insitution']) + '\n')
+            self.file.write('institution:' + ''.join(item['institution']) + '\n')
             self.file.write('contact:' + ''.join(item['contact']) + '\n')
             self.file.write('field:' + ''.join(item['field']) + '\n')
             self.file.write('description:' + ''.join(item['description']) + '\n')
+            self.file.write('papers:\n' + ''.join(item['papers']) + '\n')
             self.file.write('\n')
